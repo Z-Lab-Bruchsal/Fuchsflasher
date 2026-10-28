@@ -1,0 +1,4 @@
+.pio/
+.vscode/
+src/firmware_embedded.h
+compile_commands.json
